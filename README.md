@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ghada Hadil Bousmid</h1>
-<h3 align="center">A passiona🎓 Software engineering graduate and final-year Master student in Data Science & AI, passionate about Artificial Intelligence, Machine Learning, and Deep Learningte frontend developer from India</h3>
+<h3 align="center">🎓 Software engineering graduate and final-year Master student in Data Science & AI, passionate about Artificial Intelligence, Machine Learning, and Deep Learning</h3>
 
 - 🔭 I’m currently working on:
-   **Lip-Reading for Arabic (LRW-AR)**
-   **Image Segmentation with DeepLabV3/V3+**
-   **Deep Learning-Based Watermarking**
+   **Lip-Reading for Arabic (LRW-AR)**,
+   **Image Segmentation with DeepLabV3/V3+**,
+   **Deep Learning-Based Watermarking**.
 
 - 🌱 I’m currently learning:
-   **Advanced Deep Learning**
-   **Computer Vision**
+   **Advanced Deep Learning**,
+   **Computer Vision**.
 
 - 👯 I’m looking to collaborate on:
-   **AI research projects**
-   **NLP and computer vision tasks**
-   **Deep learning models (classification, segmentation, multimodal AI)**
+   **AI research projects**,
+   **NLP and computer vision tasks**,
+   **Deep learning models (classification, segmentation, multimodal AI)**.
 
 - 🤝 I’m looking for help with:
    **Research methodologies for AI publications**
