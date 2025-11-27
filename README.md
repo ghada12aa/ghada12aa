@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Lip-Reading for Arabic (LRW-AR) Image Segmentation with DeepLabV3/V3+ Deep Learning-Based Watermarking**
 
-- 🌱 I’m currently learning **Advanced Deep Learning Computer Vision architectures**
+- 🌱 I’m currently learning **Advanced Deep Learning and Computer Vision architectures**
 
-- 👯 I’m looking to collaborate on **AI research projects NLP and computer vision tasks Deep learning models (classification, segmentation, multimodal AI)**
+- 👯 I’m looking to collaborate on **AI research projects, NLP and computer vision tasks Deep learning models (classification, segmentation, multimodal AI)**
 
 - 🤝 I’m looking for help with **Research methodologies for AI publications**
 
