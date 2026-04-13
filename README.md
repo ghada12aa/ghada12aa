@@ -1,5 +1,5 @@
  <h1 align="center">Hi, I'm Ghada Hadil Bousmid</h1>
-<h3 align="center"> Software engineering graduate and final-year Master student in Data Science & AI, passionate about Artificial Intelligence, Machine Learning, and Deep Learning</h3>
+<h3 align="center"> Software engineer and final-year Master student in Data Science & AI, passionate about Artificial Intelligence, Machine Learning, and Deep Learning</h3>
 
 - 🔭 I’m currently working on **Deep Transfer learning for soil mapping using Satelitte images**
 
