@@ -1,13 +1,10 @@
  <h1 align="center">Hi, I'm Ghada Hadil Bousmid</h1>
-<h3 align="center"> Software engineer and final-year Master student in Data Science & AI, passionate about Artificial Intelligence, Machine Learning, and Deep Learning</h3>
+<h3 align="center">Software Engineer & Final-Year Master's Student in Data Science · AI-focused developer who builds things end to end</h3>
 
-- 🔭 I’m currently working on **Deep Transfer learning for soil mapping using Satelitte images**
-
-- 🌱 I’m currently learning **Advanced Deep Learning and Computer Vision architectures**
-
-- 👯 I’m looking to collaborate on **AI research projects, NLP and computer vision tasks Deep learning models (classification, segmentation, multimodal AI)**
-
-- 🤝 I’m looking for help with **Research methodologies for AI publications**
+- 🔭 I'm currently working on **Deep Transfer Learning for soil mapping using Satellite images**
+- 🌱 I'm currently deepening my knowledge in **Advanced Deep Learning, Computer Vision, and AI-powered Applications**
+- 👯 I'm looking to collaborate on **AI projects, web and mobile applications, or anything where smart software meets real impact**
+- 🤝 I'm open to **software engineering and dev roles. I bring the AI mindset to whatever I build**
 
 - 📫 How to reach me **ghada.bousmid@univ-constantine2.dz**
 
